@@ -1,0 +1,11 @@
+D:\Diwe\cooleyah\Semester 6\Pemrograman Visual\Github\Praktikum 5\Bonus Jabatan\Bonus Jabatan\bin\Debug\Bonus Jabatan.exe.config
+D:\Diwe\cooleyah\Semester 6\Pemrograman Visual\Github\Praktikum 5\Bonus Jabatan\Bonus Jabatan\bin\Debug\Bonus Jabatan.exe
+D:\Diwe\cooleyah\Semester 6\Pemrograman Visual\Github\Praktikum 5\Bonus Jabatan\Bonus Jabatan\bin\Debug\Bonus Jabatan.pdb
+D:\Diwe\cooleyah\Semester 6\Pemrograman Visual\Github\Praktikum 5\Bonus Jabatan\Bonus Jabatan\bin\Debug\Bonus Jabatan.xml
+D:\Diwe\cooleyah\Semester 6\Pemrograman Visual\Github\Praktikum 5\Bonus Jabatan\Bonus Jabatan\obj\Debug\Bonus Jabatan.vbprojResolveAssemblyReference.cache
+D:\Diwe\cooleyah\Semester 6\Pemrograman Visual\Github\Praktikum 5\Bonus Jabatan\Bonus Jabatan\obj\Debug\Bonus_Jabatan.Form1.resources
+D:\Diwe\cooleyah\Semester 6\Pemrograman Visual\Github\Praktikum 5\Bonus Jabatan\Bonus Jabatan\obj\Debug\Bonus_Jabatan.Resources.resources
+D:\Diwe\cooleyah\Semester 6\Pemrograman Visual\Github\Praktikum 5\Bonus Jabatan\Bonus Jabatan\obj\Debug\Bonus Jabatan.vbproj.GenerateResource.Cache
+D:\Diwe\cooleyah\Semester 6\Pemrograman Visual\Github\Praktikum 5\Bonus Jabatan\Bonus Jabatan\obj\Debug\Bonus Jabatan.exe
+D:\Diwe\cooleyah\Semester 6\Pemrograman Visual\Github\Praktikum 5\Bonus Jabatan\Bonus Jabatan\obj\Debug\Bonus Jabatan.xml
+D:\Diwe\cooleyah\Semester 6\Pemrograman Visual\Github\Praktikum 5\Bonus Jabatan\Bonus Jabatan\obj\Debug\Bonus Jabatan.pdb
