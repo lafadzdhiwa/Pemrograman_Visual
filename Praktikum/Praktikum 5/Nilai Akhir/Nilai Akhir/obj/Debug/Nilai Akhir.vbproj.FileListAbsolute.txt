@@ -1,0 +1,11 @@
+D:\Diwe\cooleyah\Semester 6\Pemrograman Visual\Github\Praktikum 5\Nilai Akhir\Nilai Akhir\bin\Debug\Nilai Akhir.exe.config
+D:\Diwe\cooleyah\Semester 6\Pemrograman Visual\Github\Praktikum 5\Nilai Akhir\Nilai Akhir\obj\Debug\Nilai Akhir.vbprojResolveAssemblyReference.cache
+D:\Diwe\cooleyah\Semester 6\Pemrograman Visual\Github\Praktikum 5\Nilai Akhir\Nilai Akhir\obj\Debug\Nilai_Akhir.Form1.resources
+D:\Diwe\cooleyah\Semester 6\Pemrograman Visual\Github\Praktikum 5\Nilai Akhir\Nilai Akhir\obj\Debug\Nilai_Akhir.Resources.resources
+D:\Diwe\cooleyah\Semester 6\Pemrograman Visual\Github\Praktikum 5\Nilai Akhir\Nilai Akhir\obj\Debug\Nilai Akhir.vbproj.GenerateResource.Cache
+D:\Diwe\cooleyah\Semester 6\Pemrograman Visual\Github\Praktikum 5\Nilai Akhir\Nilai Akhir\obj\Debug\Nilai Akhir.xml
+D:\Diwe\cooleyah\Semester 6\Pemrograman Visual\Github\Praktikum 5\Nilai Akhir\Nilai Akhir\bin\Debug\Nilai Akhir.exe
+D:\Diwe\cooleyah\Semester 6\Pemrograman Visual\Github\Praktikum 5\Nilai Akhir\Nilai Akhir\bin\Debug\Nilai Akhir.pdb
+D:\Diwe\cooleyah\Semester 6\Pemrograman Visual\Github\Praktikum 5\Nilai Akhir\Nilai Akhir\bin\Debug\Nilai Akhir.xml
+D:\Diwe\cooleyah\Semester 6\Pemrograman Visual\Github\Praktikum 5\Nilai Akhir\Nilai Akhir\obj\Debug\Nilai Akhir.exe
+D:\Diwe\cooleyah\Semester 6\Pemrograman Visual\Github\Praktikum 5\Nilai Akhir\Nilai Akhir\obj\Debug\Nilai Akhir.pdb
