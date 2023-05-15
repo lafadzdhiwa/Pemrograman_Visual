@@ -1,0 +1,11 @@
+D:\Diwe\cooleyah\Semester 6\Pemrograman Visual\Github\Tugas\Tugas 6\Radio Button\Radio Button\bin\Debug\Radio Button.exe.config
+D:\Diwe\cooleyah\Semester 6\Pemrograman Visual\Github\Tugas\Tugas 6\Radio Button\Radio Button\bin\Debug\Radio Button.exe
+D:\Diwe\cooleyah\Semester 6\Pemrograman Visual\Github\Tugas\Tugas 6\Radio Button\Radio Button\bin\Debug\Radio Button.pdb
+D:\Diwe\cooleyah\Semester 6\Pemrograman Visual\Github\Tugas\Tugas 6\Radio Button\Radio Button\bin\Debug\Radio Button.xml
+D:\Diwe\cooleyah\Semester 6\Pemrograman Visual\Github\Tugas\Tugas 6\Radio Button\Radio Button\obj\Debug\Radio Button.vbprojResolveAssemblyReference.cache
+D:\Diwe\cooleyah\Semester 6\Pemrograman Visual\Github\Tugas\Tugas 6\Radio Button\Radio Button\obj\Debug\Radio_Button.Form1.resources
+D:\Diwe\cooleyah\Semester 6\Pemrograman Visual\Github\Tugas\Tugas 6\Radio Button\Radio Button\obj\Debug\Radio_Button.Resources.resources
+D:\Diwe\cooleyah\Semester 6\Pemrograman Visual\Github\Tugas\Tugas 6\Radio Button\Radio Button\obj\Debug\Radio Button.vbproj.GenerateResource.Cache
+D:\Diwe\cooleyah\Semester 6\Pemrograman Visual\Github\Tugas\Tugas 6\Radio Button\Radio Button\obj\Debug\Radio Button.exe
+D:\Diwe\cooleyah\Semester 6\Pemrograman Visual\Github\Tugas\Tugas 6\Radio Button\Radio Button\obj\Debug\Radio Button.xml
+D:\Diwe\cooleyah\Semester 6\Pemrograman Visual\Github\Tugas\Tugas 6\Radio Button\Radio Button\obj\Debug\Radio Button.pdb
